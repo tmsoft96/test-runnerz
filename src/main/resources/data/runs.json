@@ -1,0 +1,32 @@
+{
+  "runs": [
+    {
+      "title": "Real test",
+      "startedDateTime": "2023-12-12T15:00:00.45255",
+      "endDateTime": "2023-12-12T16:00:00.45255",
+      "miles": 2,
+      "location": "INDOOR"
+    },
+    {
+      "title": "Morning Run",
+      "startedDateTime": "2023-12-13T06:30:00.12345",
+      "endDateTime": "2023-12-13T07:30:00.12345",
+      "miles": 5,
+      "location": "OUTDOOR"
+    },
+    {
+      "title": "Evening Jog",
+      "startedDateTime": "2023-12-14T18:00:00.67890",
+      "endDateTime": "2023-12-14T19:00:00.67890",
+      "miles": 3,
+      "location": "INDOOR"
+    },
+    {
+      "title": "Weekend Run",
+      "startedDateTime": "2023-12-15T08:00:00.54321",
+      "endDateTime": "2023-12-15T09:00:00.54321",
+      "miles": 7,
+      "location": "OUTDOOR"
+    }
+  ]
+}
